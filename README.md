@@ -21,7 +21,6 @@ This project implements a **Convolutional Neural Network (CNN)** using TensorFlo
 CNN_Image_Classification/
 │
 ├── CNN_Image_Classification.ipynb    # Main Jupyter notebook
-├── CNN_LEARNING_GUIDE.md             # Comprehensive learning guide
 ├── CNN_README.md                      # This file
 ├── requirements_cnn.txt               # Dependencies
 │
